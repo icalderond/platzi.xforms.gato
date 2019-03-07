@@ -20,7 +20,7 @@
                <TapGestureRecognizer Tapped="Handle_Tapped"/>
             </Grid.GestureRecognizers>
         </Grid>
-        <Grid Grid.Column="1" Grid.Row="0" BackgroundColor="White">
+       <Grid Grid.Column="1" Grid.Row="0" BackgroundColor="White">
             <Grid.GestureRecognizers>
                <TapGestureRecognizer Tapped="Handle_Tapped"/>
             </Grid.GestureRecognizers>
@@ -31,7 +31,7 @@
             </Grid.GestureRecognizers>
         </Grid>
         
-        <Grid Grid.Column="0" Grid.Row="1" BackgroundColor="White">
+         <Grid Grid.Column="0" Grid.Row="1" BackgroundColor="White">
             <Grid.GestureRecognizers>
                <TapGestureRecognizer Tapped="Handle_Tapped"/>
             </Grid.GestureRecognizers>
@@ -62,6 +62,5 @@
                <TapGestureRecognizer Tapped="Handle_Tapped"/>
             </Grid.GestureRecognizers>
         </Grid>
-        
     </Grid>
 </ContentPage>
